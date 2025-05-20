@@ -1,0 +1,45 @@
+body {
+  background-color: #e4cdec;
+
+h1 {
+  color: #54046b;
+  text-align: center;
+}
+p {
+  font-size: 18px;
+  text-align: justify;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+img {
+  width: 300px;
+  border-radius: 10px;
+  margin: 20px 0;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+table, td {
+  border: 1px solid #590c98;
+}
+
+td {
+  padding: 10px;
+  text-align: center;
+}
+
+a {
+  color: #5205d6;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #4e1aad; 
+}
